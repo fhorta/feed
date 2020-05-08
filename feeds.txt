@@ -1,3 +1,9 @@
+https://www.newyorker.com/feed/everything
+https://www.newyorker.com/feed/culture
+https://www.newyorker.com/feed/posts
+https://www.newyorker.com/feed/magazine/rss
+https://www.newyorker.com/feed/humor
+https://www.newyorker.com/feed/news
 https://towardsdatascience.com/feed
 http://feeds.reuters.com/reuters/topNews?irpc=69
 http://www.newyorker.com/services/rss/feeds/everything.xml
@@ -16,7 +22,6 @@ http://interglacial.com/rss/new_yorker_cartoon.rss
 https://elpais.com/rss/elpais/opinion.xml
 http://rss.accuweather.com/rss/mt-blog-rss.asp?blog=climatechange
 http://climate.nasa.gov/news/rss.xml
-http://feeds.feedburner.com/ScienceblogsCombinedFeed
 https://www.gfdl.noaa.gov/feed/
 http://www.desmogblog.com/rss.xml
 http://climate.nasa.gov/blogs/rss.xml
@@ -27,9 +32,6 @@ http://lucumr.pocoo.org/feed.atom
 http://planet.python.org/rss10.xml
 https://realpython.com/atom.xml
 https://medium.freecodecamp.com/feed
-http://feeds.feedburner.com/codinghorror/
-http://feeds.feedburner.com/DougHellmann
-http://feeds.feedburner.com/catonmat
 http://www.engadget.com/rss-full.xml
 https://gmail.googleblog.com/feeds/posts/default?alt=rss
 http://www.theverge.com/rss/full.xml
@@ -42,10 +44,8 @@ https://databricks.com/blog/category/engineering/spark/feed
 http://junkcharts.typepad.com/numbersruleyourworld/atom.xml
 http://blog.cloudera.com/feed/
 http://www.thecloudavenue.com/feeds/posts/default
-http://feeds.feedburner.com/oreilly/radar/atom
 http://blog.fastforwardlabs.com/feed.xml
 http://databricks.com/feed
 http://online.wsj.com/xml/rss/3_7085.xml
 http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
 http://www.nytimes.com/services/xml/rss/nyt/Business.xml
-http://feeds2.feedburner.com/businessinsider
