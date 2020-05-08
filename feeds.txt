@@ -1,107 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<opml version="1.0">
-    <head>
-        <title>Felipe subscriptions in feedly Cloud</title>
-    </head>
-    <body>
-        <outline text="Must Read" title="Must Read">
-            <outline type="rss" text="Reuters" title="Reuters" xmlUrl="http://feeds.reuters.com/reuters/topNews?irpc=69" htmlUrl="https://www.reuters.com"/>
-            <outline type="rss" text="The New Yorker - Culture" title="The New Yorker - Culture" xmlUrl="http://www.newyorker.com/services/rss/feeds/everything.xml" htmlUrl="https://www.newyorker.com/culture"/>
-            <outline type="rss" text="Hipersónica" title="Hipersónica" xmlUrl="http://www.hipersonica.com/feed/" htmlUrl="https://hipersonica.com"/>
-            <outline type="rss" text="Últimas noticias | EL PAÍS" title="Últimas noticias | EL PAÍS" xmlUrl="http://www.elpais.com/rss/feed.html?feedId=17046" htmlUrl="https://elpais.com/rss/tags/ultimas_noticias.xml"/>
-            <outline type="rss" text="NPR News" title="NPR News" xmlUrl="http://www.npr.org/rss/rss.php?id=1001" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1001"/>
-            <outline type="rss" text="EL PAIS" title="EL PAIS" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnsvJeZO4RigQ898WdDNoBw" htmlUrl="https://www.youtube.com/channel/UCnsvJeZO4RigQ898WdDNoBw"/>
-            <outline type="rss" text="BBC News - Home" title="BBC News - Home" xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml" htmlUrl="https://www.bbc.co.uk/news/"/>
-            <outline type="rss" text="top scoring links : worldnews" title="top scoring links : worldnews" xmlUrl="http://www.reddit.com/r/worldnews/top/.rss" htmlUrl="https://www.reddit.com/r/worldnews/top/"/>
-            <outline type="rss" text="Django" title="Django" xmlUrl="http://reddit.com/r/django/.rss" htmlUrl="https://www.reddit.com/r/django/"/>
-            <outline type="rss" text="Portada de EL PAÍS" title="Portada de EL PAÍS" xmlUrl="http://www.elpais.com/rss/feed.html?feedId=1022" htmlUrl="https://elpais.com/rss/elpais/portada.xml"/>
-            <outline type="rss" text="CNN.com - RSS Channel - HP Hero" title="CNN.com - RSS Channel - HP Hero" xmlUrl="http://rss.cnn.com/rss/cnn_topstories.rss" htmlUrl="https://www.cnn.com/index.html"/>
-            <outline type="rss" text="The Guardian" title="The Guardian" xmlUrl="http://www.guardian.co.uk/rssfeed/0,,1,00.xml" htmlUrl="https://www.theguardian.com/uk"/>
-            <outline type="rss" text="Sección Opinión | EL PAÍS" title="Sección Opinión | EL PAÍS" xmlUrl="http://www.elpais.com/rss/feed.html?feedId=1003" htmlUrl="https://elpais.com/rss/elpais/opinion.xml"/>
-            <outline type="rss" text="Brazil | The Guardian" title="Brazil | The Guardian" xmlUrl="http://www.guardian.co.uk/world/brazil/rss" htmlUrl="https://www.theguardian.com/world/brazil"/>
-            <outline type="rss" text="New Yorker: News" title="New Yorker: News" xmlUrl="http://feedmaker.kindle4rss.com/feeds/news.newyorker.com.xml" htmlUrl="https://www.newyorker.com/news"/>
-            <outline type="rss" text="New Yorker Cartoons!" title="New Yorker Cartoons!" xmlUrl="http://interglacial.com/rss/new_yorker_cartoon.rss" htmlUrl="https://www.newyorker.com/cartoons"/>
-        </outline>
-        <outline text="opinion" title="opinion">
-            <outline type="rss" text="Sección Opinión" title="Sección Opinión" xmlUrl="https://elpais.com/rss/elpais/opinion.xml" htmlUrl="https://elpais.com/rss/elpais/opinion.xml"/>
-        </outline>
-        <outline text="climate" title="climate">
-            <outline type="rss" text="AccuWeather.com Climate Change" title="AccuWeather.com Climate Change" xmlUrl="http://rss.accuweather.com/rss/mt-blog-rss.asp?blog=climatechange" htmlUrl="http://www.accuweather.com"/>
-            <outline type="rss" text="Global Climate Change - Vital Signs of the Planet - News RSS Feed" title="Global Climate Change - Vital Signs of the Planet - News RSS Feed" xmlUrl="http://climate.nasa.gov/news/rss.xml" htmlUrl="https://climate.nasa.gov/"/>
-            <outline type="rss" text="ScienceBlogs - Where the world discusses science" title="ScienceBlogs - Where the world discusses science" xmlUrl="http://feeds.feedburner.com/ScienceblogsCombinedFeed" htmlUrl="https://scienceblogs.com/"/>
-            <outline type="rss" text="gfdl.noaa.gov" title="gfdl.noaa.gov" xmlUrl="https://www.gfdl.noaa.gov/feed/"/>
-            <outline type="rss" text="DeSmogBlog" title="DeSmogBlog" xmlUrl="http://www.desmogblog.com/rss.xml" htmlUrl="https://www.desmogblog.com/frontpage"/>
-            <outline type="rss" text="Global Climate Change - Vital Signs of the Planet - Blog RSS Feed" title="Global Climate Change - Vital Signs of the Planet - Blog RSS Feed" xmlUrl="http://climate.nasa.gov/blogs/rss.xml" htmlUrl="https://climate.nasa.gov/"/>
-            <outline type="rss" text="RealClimate" title="RealClimate" xmlUrl="http://www.realclimate.org/index.php/feed/atom/" htmlUrl="http://www.realclimate.org"/>
-            <outline type="rss" text="EcoInternet" title="EcoInternet" xmlUrl="http://www.climateark.org/rss/climate.xml" htmlUrl="https://ecointernet.org"/>
-        </outline>
-        <outline text="coding" title="coding">
-            <outline type="rss" text="The Mouse Vs. The Python" title="The Mouse Vs. The Python" xmlUrl="http://www.blog.pythonlibrary.org/feed/" htmlUrl="https://www.blog.pythonlibrary.org"/>
-            <outline type="rss" text="Armin Ronacher's Thoughts and Writings" title="Armin Ronacher's Thoughts and Writings" xmlUrl="http://lucumr.pocoo.org/feed.atom" htmlUrl="http://lucumr.pocoo.org/"/>
-            <outline type="rss" text="Planet Python" title="Planet Python" xmlUrl="http://planet.python.org/rss10.xml" htmlUrl="http://planetpython.org/"/>
-            <outline type="rss" text="The Django weblog" title="The Django weblog" xmlUrl="http://www.djangoproject.com/rss/weblog/" htmlUrl="https://www.djangoproject.com/weblog/"/>
-            <outline type="rss" text="top scoring links" title="top scoring links" xmlUrl="http://www.reddit.com/r/Python/top/.rss" htmlUrl="https://www.reddit.com/r/Python/top/"/>
-            <outline type="rss" text="Real Python" title="Real Python" xmlUrl="https://realpython.com/atom.xml" htmlUrl="https://realpython.com/"/>
-            <outline type="rss" text="freeCodeCamp.org" title="freeCodeCamp.org" xmlUrl="https://medium.freecodecamp.com/feed" htmlUrl="https://www.freecodecamp.org/news"/>
-            <outline type="rss" text="Django" title="Django" xmlUrl="http://reddit.com/r/django/.rss" htmlUrl="https://www.reddit.com/r/django/"/>
-            <outline type="rss" text="Django community aggregator: Community blog posts" title="Django community aggregator: Community blog posts" xmlUrl="http://www.djangoproject.com/rss/community/" htmlUrl="https://www.djangoproject.com/rss/community/blogs/"/>
-            <outline type="rss" text="Coding Horror" title="Coding Horror" xmlUrl="http://feeds.feedburner.com/codinghorror/" htmlUrl="https://blog.codinghorror.com/"/>
-            <outline type="rss" text="Doug Hellmann" title="Doug Hellmann" xmlUrl="http://feeds.feedburner.com/DougHellmann" htmlUrl="https://doughellmann.com/blog"/>
-            <outline type="rss" text="catonmat.net – less is more" title="catonmat.net – less is more" xmlUrl="http://feeds.feedburner.com/catonmat" htmlUrl="https://catonmat.net"/>
-        </outline>
-        <outline text="tech" title="tech">
-            <outline type="rss" text="/r/Technology" title="/r/Technology" xmlUrl="http://www.reddit.com/r/technology/.rss" htmlUrl="https://www.reddit.com/r/technology/"/>
-            <outline type="rss" text="Engadget" title="Engadget" xmlUrl="http://www.engadget.com/rss-full.xml" htmlUrl="http://www.engadget.com"/>
-            <outline type="rss" text="Gmail Blog" title="Gmail Blog" xmlUrl="https://gmail.googleblog.com/feeds/posts/default?alt=rss" htmlUrl="https://www.blog.google/products/gmail/"/>
-            <outline type="rss" text="The Verge" title="The Verge" xmlUrl="http://www.theverge.com/rss/full.xml" htmlUrl="https://www.theverge.com/"/>
-            <outline type="rss" text="MacRumors" title="MacRumors" xmlUrl="http://www.macrumors.com/macrumors.xml" htmlUrl="https://www.macrumors.com"/>
-        </outline>
-        <outline text="brazil" title="brazil">
-            <outline type="rss" text="Brazil | The Guardian" title="Brazil | The Guardian" xmlUrl="http://www.guardian.co.uk/world/brazil/rss" htmlUrl="https://www.theguardian.com/world/brazil"/>
-            <outline type="rss" text="&quot;folha de sao paulo&quot; - Google News" title="&quot;folha de sao paulo&quot; - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=folha%20de%20sao%20paulo&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="https://news.google.com/search?hl=en-US&amp;gl=US&amp;ceid=US:en&amp;q=folha+de+sao+paulo"/>
-            <outline type="rss" text="Topix" title="Topix" xmlUrl="http://rss.topix.net/rss/world/brazil.xml" htmlUrl="https://stars.topix.com/"/>
-        </outline>
-        <outline text="big-data" title="big-data">
-            <outline type="rss" text="Data Eng Weekly" title="Data Eng Weekly" xmlUrl="http://www.hadoopweekly.com/feed.xml" htmlUrl="https://dataengweekly.substack.com"/>
-            <outline type="rss" text="Data Science 101" title="Data Science 101" xmlUrl="http://datascience101.wordpress.com/feed/" htmlUrl="https://101.datascience.community"/>
-            <outline type="rss" text="Apache Spark – Databricks" title="Apache Spark – Databricks" xmlUrl="https://databricks.com/blog/category/engineering/spark/feed" htmlUrl="https://databricks.com"/>
-            <outline type="rss" text="Big Data, Plainly Spoken" title="Big Data, Plainly Spoken" xmlUrl="http://junkcharts.typepad.com/numbersruleyourworld/atom.xml" htmlUrl="https://junkcharts.typepad.com/numbersruleyourworld/"/>
-            <outline type="rss" text="Cloudera Blog" title="Cloudera Blog" xmlUrl="http://blog.cloudera.com/feed/" htmlUrl="https://blog.cloudera.com"/>
-            <outline type="rss" text="Big Data and Cloud Tips" title="Big Data and Cloud Tips" xmlUrl="http://www.thecloudavenue.com/feeds/posts/default" htmlUrl="http://www.thecloudavenue.com/"/>
-            <outline type="rss" text="Radar" title="Radar" xmlUrl="http://feeds.feedburner.com/oreilly/radar/atom" htmlUrl="https://www.oreilly.com/radar"/>
-            <outline type="rss" text="Cloudera Fast Forward Labs Blog" title="Cloudera Fast Forward Labs Blog" xmlUrl="http://blog.fastforwardlabs.com/feed.xml" htmlUrl="http://blog.fastforwardlabs.com/"/>
-            <outline type="rss" text="Databricks" title="Databricks" xmlUrl="http://databricks.com/feed" htmlUrl="https://databricks.com"/>
-            <outline type="rss" text="What's The Big Data?" title="What's The Big Data?" xmlUrl="http://whatsthebigdata.com/feed/" htmlUrl="https://whatsthebigdata.com"/>
-        </outline>
-        <outline text="geospatial" title="geospatial"/>
-        <outline text="questions" title="questions"/>
-        <outline text="Nyc" title="Nyc">
-            <outline type="rss" text="nyc reddit" title="nyc reddit" xmlUrl="http://www.reddit.com/r/nyc/.rss" htmlUrl="https://www.reddit.com/r/nyc/"/>
-        </outline>
-        <outline text="self" title="self">
-            <outline type="rss" text="Hipersónica" title="Hipersónica" xmlUrl="http://www.hipersonica.com/feed/" htmlUrl="https://hipersonica.com"/>
-        </outline>
-        <outline text="news" title="news">
-            <outline type="rss" text="Reuters" title="Reuters" xmlUrl="http://feeds.reuters.com/reuters/topNews?irpc=69" htmlUrl="https://www.reuters.com"/>
-            <outline type="rss" text="World News" title="World News" xmlUrl="http://www.reddit.com/r/worldnews/.rss" htmlUrl="https://www.reddit.com/r/worldnews/"/>
-            <outline type="rss" text="NPR News" title="NPR News" xmlUrl="http://www.npr.org/rss/rss.php?id=1001" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1001"/>
-            <outline type="rss" text="BBC News - Home" title="BBC News - Home" xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml" htmlUrl="https://www.bbc.co.uk/news/"/>
-            <outline type="rss" text="top scoring links : worldnews" title="top scoring links : worldnews" xmlUrl="http://www.reddit.com/r/worldnews/top/.rss" htmlUrl="https://www.reddit.com/r/worldnews/top/"/>
-            <outline type="rss" text="WSJ.com: World News" title="WSJ.com: World News" xmlUrl="http://online.wsj.com/xml/rss/3_7085.xml" htmlUrl="http://online.wsj.com/page/2_0006.html"/>
-            <outline type="rss" text="Portada de EL PAÍS" title="Portada de EL PAÍS" xmlUrl="http://www.elpais.com/rss/feed.html?feedId=1022" htmlUrl="https://elpais.com/rss/elpais/portada.xml"/>
-            <outline type="rss" text="CNN.com - RSS Channel - HP Hero" title="CNN.com - RSS Channel - HP Hero" xmlUrl="http://rss.cnn.com/rss/cnn_topstories.rss" htmlUrl="https://www.cnn.com/index.html"/>
-            <outline type="rss" text="The Guardian" title="The Guardian" xmlUrl="http://www.guardian.co.uk/rssfeed/0,,1,00.xml" htmlUrl="https://www.theguardian.com/uk"/>
-            <outline type="rss" text="Sección Opinión | EL PAÍS" title="Sección Opinión | EL PAÍS" xmlUrl="http://www.elpais.com/rss/feed.html?feedId=1003" htmlUrl="https://elpais.com/rss/elpais/opinion.xml"/>
-            <outline type="rss" text="NYT &gt; Top Stories" title="NYT &gt; Top Stories" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml" htmlUrl="https://nytimes.com"/>
-            <outline type="rss" text="NYT &gt; Business" title="NYT &gt; Business" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Business.xml" htmlUrl="https://www.nytimes.com/section/business"/>
-            <outline type="rss" text="nyc reddit" title="nyc reddit" xmlUrl="http://www.reddit.com/r/nyc/.rss" htmlUrl="https://www.reddit.com/r/nyc/"/>
-            <outline type="rss" text="Business Insider" title="Business Insider" xmlUrl="http://feeds2.feedburner.com/businessinsider" htmlUrl="https://www.businessinsider.com"/>
-        </outline>
-        <outline type="rss" text="EL PAIS" title="EL PAIS" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnsvJeZO4RigQ898WdDNoBw" htmlUrl="https://www.youtube.com/channel/UCnsvJeZO4RigQ898WdDNoBw"/>
-        <outline type="rss" text="Últimas noticias | EL PAÍS" title="Últimas noticias | EL PAÍS" xmlUrl="http://www.elpais.com/rss/feed.html?feedId=17046" htmlUrl="https://elpais.com/rss/tags/ultimas_noticias.xml"/>
-        <outline type="rss" text="The New Yorker - Culture" title="The New Yorker - Culture" xmlUrl="http://www.newyorker.com/services/rss/feeds/everything.xml" htmlUrl="https://www.newyorker.com/culture"/>
-        <outline type="rss" text="New Yorker Cartoons!" title="New Yorker Cartoons!" xmlUrl="http://interglacial.com/rss/new_yorker_cartoon.rss" htmlUrl="https://www.newyorker.com/cartoons"/>
-        <outline type="rss" text="New Yorker: News" title="New Yorker: News" xmlUrl="http://feedmaker.kindle4rss.com/feeds/news.newyorker.com.xml" htmlUrl="https://www.newyorker.com/news"/>
-    </body>
-</opml>
+http://feeds.reuters.com/reuters/topNews?irpc=69
+http://www.newyorker.com/services/rss/feeds/everything.xml
+http://www.hipersonica.com/feed/
+http://www.elpais.com/rss/feed.html?feedId=17046
+http://www.npr.org/rss/rss.php?id=1001
+https://www.youtube.com/feeds/videos.xml?channel_id=UCnsvJeZO4RigQ898WdDNoBw
+http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml
+http://www.reddit.com/r/worldnews/top/.rss
+http://reddit.com/r/django/.rss
+http://www.elpais.com/rss/feed.html?feedId=1022
+http://rss.cnn.com/rss/cnn_topstories.rss
+"http://www.guardian.co.uk/rssfeed/0,,1,00.xml"
+http://www.elpais.com/rss/feed.html?feedId=1003
+http://www.guardian.co.uk/world/brazil/rss
+http://feedmaker.kindle4rss.com/feeds/news.newyorker.com.xml
+http://interglacial.com/rss/new_yorker_cartoon.rss
+https://elpais.com/rss/elpais/opinion.xml
+http://rss.accuweather.com/rss/mt-blog-rss.asp?blog=climatechange
+http://climate.nasa.gov/news/rss.xml
+http://feeds.feedburner.com/ScienceblogsCombinedFeed
+https://www.gfdl.noaa.gov/feed/
+http://www.desmogblog.com/rss.xml
+http://climate.nasa.gov/blogs/rss.xml
+http://www.realclimate.org/index.php/feed/atom/
+http://www.climateark.org/rss/climate.xml
+http://www.blog.pythonlibrary.org/feed/
+http://lucumr.pocoo.org/feed.atom
+http://planet.python.org/rss10.xml
+http://www.djangoproject.com/rss/weblog/
+http://www.reddit.com/r/Python/top/.rss
+https://realpython.com/atom.xml
+https://medium.freecodecamp.com/feed
+http://www.djangoproject.com/rss/community/
+http://feeds.feedburner.com/codinghorror/
+http://feeds.feedburner.com/DougHellmann
+http://feeds.feedburner.com/catonmat
+http://www.reddit.com/r/technology/.rss
+http://www.engadget.com/rss-full.xml
+https://gmail.googleblog.com/feeds/posts/default?alt=rss
+http://www.theverge.com/rss/full.xml
+http://www.macrumors.com/macrumors.xml
+http://news.google.com/news?hl=en&gl=us&q=folha%20de%20sao%20paulo&um=1&ie=UTF-8&output=rss
+http://rss.topix.net/rss/world/brazil.xml
+http://www.hadoopweekly.com/feed.xml
+http://datascience101.wordpress.com/feed/
+https://databricks.com/blog/category/engineering/spark/feed
+http://junkcharts.typepad.com/numbersruleyourworld/atom.xml
+http://blog.cloudera.com/feed/
+http://www.thecloudavenue.com/feeds/posts/default
+http://feeds.feedburner.com/oreilly/radar/atom
+http://blog.fastforwardlabs.com/feed.xml
+http://databricks.com/feed
+http://whatsthebigdata.com/feed/
+http://www.reddit.com/r/nyc/.rss
+http://www.reddit.com/r/worldnews/.rss
+http://online.wsj.com/xml/rss/3_7085.xml
+http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+http://www.nytimes.com/services/xml/rss/nyt/Business.xml
+http://feeds2.feedburner.com/businessinsider
