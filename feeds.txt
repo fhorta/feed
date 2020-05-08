@@ -11,17 +11,11 @@ http://www.newyorker.com/services/rss/feeds/everything.xml
 http://www.hipersonica.com/feed/
 http://www.elpais.com/rss/feed.html?feedId=17046
 http://www.npr.org/rss/rss.php?id=1001
-http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml
 http://www.elpais.com/rss/feed.html?feedId=1022
 http://rss.cnn.com/rss/cnn_topstories.rss
 http://www.guardian.co.uk/rssfeed/0,,1,00.xml
 http://www.elpais.com/rss/feed.html?feedId=1003
 http://www.guardian.co.uk/world/brazil/rss
 https://elpais.com/rss/elpais/opinion.xml
-http://rss.accuweather.com/rss/mt-blog-rss.asp?blog=climatechange
 http://climate.nasa.gov/news/rss.xml
-https://www.gfdl.noaa.gov/feed/
-http://www.desmogblog.com/rss.xml
 http://climate.nasa.gov/blogs/rss.xml
-http://www.theverge.com/rss/full.xml
-http://www.macrumors.com/macrumors.xml
