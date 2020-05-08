@@ -1,21 +1,21 @@
-https://feeds.folha.uol.com.br/poder/rss091.xml
-https://feeds.folha.uol.com.br/opiniao/rss091.xml
-https://www.newyorker.com/feed/everything
-https://www.newyorker.com/feed/culture
-https://www.newyorker.com/feed/posts
-https://www.newyorker.com/feed/magazine/rss
-https://www.newyorker.com/feed/news
-https://towardsdatascience.com/feed
-http://feeds.reuters.com/reuters/topNews?irpc=69
-http://www.newyorker.com/services/rss/feeds/everything.xml
-http://www.hipersonica.com/feed/
-http://www.elpais.com/rss/feed.html?feedId=17046
-http://www.npr.org/rss/rss.php?id=1001
-http://www.elpais.com/rss/feed.html?feedId=1022
-http://rss.cnn.com/rss/cnn_topstories.rss
-http://www.guardian.co.uk/rssfeed/0,,1,00.xml
-http://www.elpais.com/rss/feed.html?feedId=1003
-http://www.guardian.co.uk/world/brazil/rss
-https://elpais.com/rss/elpais/opinion.xml
-http://climate.nasa.gov/news/rss.xml
-http://climate.nasa.gov/blogs/rss.xml
+ds https://towardsdatascience.com/feed
+gn https://feeds.folha.uol.com.br/poder/rss091.xml
+gn https://feeds.folha.uol.com.br/opiniao/rss091.xml
+gn https://www.newyorker.com/feed/everything
+gn https://www.newyorker.com/feed/culture
+gn https://www.newyorker.com/feed/posts
+gn https://www.newyorker.com/feed/magazine/rss
+gn https://www.newyorker.com/feed/news
+gn http://feeds.reuters.com/reuters/topNews?irpc=69
+gn http://www.newyorker.com/services/rss/feeds/everything.xml
+gn http://www.hipersonica.com/feed/
+gn http://www.elpais.com/rss/feed.html?feedId=17046
+gn http://www.npr.org/rss/rss.php?id=1001
+gn http://www.elpais.com/rss/feed.html?feedId=1022
+gn http://rss.cnn.com/rss/cnn_topstories.rss
+gn http://www.guardian.co.uk/rssfeed/0,,1,00.xml
+gn http://www.elpais.com/rss/feed.html?feedId=1003
+gn http://www.guardian.co.uk/world/brazil/rss
+gn https://elpais.com/rss/elpais/opinion.xml
+gn http://climate.nasa.gov/news/rss.xml
+gn http://climate.nasa.gov/blogs/rss.xml
