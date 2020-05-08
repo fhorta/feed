@@ -1,3 +1,4 @@
+https://towardsdatascience.com/feed
 http://feeds.reuters.com/reuters/topNews?irpc=69
 http://www.newyorker.com/services/rss/feeds/everything.xml
 http://www.hipersonica.com/feed/
@@ -5,8 +6,6 @@ http://www.elpais.com/rss/feed.html?feedId=17046
 http://www.npr.org/rss/rss.php?id=1001
 https://www.youtube.com/feeds/videos.xml?channel_id=UCnsvJeZO4RigQ898WdDNoBw
 http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml
-http://www.reddit.com/r/worldnews/top/.rss
-http://reddit.com/r/django/.rss
 http://www.elpais.com/rss/feed.html?feedId=1022
 http://rss.cnn.com/rss/cnn_topstories.rss
 "http://www.guardian.co.uk/rssfeed/0,,1,00.xml"
@@ -26,15 +25,11 @@ http://www.climateark.org/rss/climate.xml
 http://www.blog.pythonlibrary.org/feed/
 http://lucumr.pocoo.org/feed.atom
 http://planet.python.org/rss10.xml
-http://www.djangoproject.com/rss/weblog/
-http://www.reddit.com/r/Python/top/.rss
 https://realpython.com/atom.xml
 https://medium.freecodecamp.com/feed
-http://www.djangoproject.com/rss/community/
 http://feeds.feedburner.com/codinghorror/
 http://feeds.feedburner.com/DougHellmann
 http://feeds.feedburner.com/catonmat
-http://www.reddit.com/r/technology/.rss
 http://www.engadget.com/rss-full.xml
 https://gmail.googleblog.com/feeds/posts/default?alt=rss
 http://www.theverge.com/rss/full.xml
@@ -50,9 +45,6 @@ http://www.thecloudavenue.com/feeds/posts/default
 http://feeds.feedburner.com/oreilly/radar/atom
 http://blog.fastforwardlabs.com/feed.xml
 http://databricks.com/feed
-http://whatsthebigdata.com/feed/
-http://www.reddit.com/r/nyc/.rss
-http://www.reddit.com/r/worldnews/.rss
 http://online.wsj.com/xml/rss/3_7085.xml
 http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
 http://www.nytimes.com/services/xml/rss/nyt/Business.xml
